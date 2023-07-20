@@ -1,0 +1,11 @@
+.test{
+    color:rgb(0, 0, 0);
+    background-color:rgb(32, 201, 83);
+    text-align:center;
+    width: auto;
+    height: 285px;
+    border-width:1px;
+    border-style:solid;
+    border-color:#000000;
+    margin:10px;
+  }

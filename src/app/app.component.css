@@ -1,0 +1,9 @@
+div{
+  background-color: rgb(62,143,190);
+  width: 900px;
+}
+
+.app{
+  width:880px;
+  overflow:hidden;
+}
